@@ -36,11 +36,3 @@ Eliminar tarefas manuais repetitivas de digitação, reduzindo o tempo de execu�
 - **`README.md`**: Documentação do projeto.
 
 ---
-
-## 🚀 Como Executar o Projeto
-
-1. **Clone o repositório:**
-
-```bash
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
